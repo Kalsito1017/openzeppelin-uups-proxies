@@ -20,3 +20,7 @@
 - **Have** Foundry installed ([foundry installation guide](https://github.com/foundry-rs/foundry))  
 - **Use** OpenZeppelin Contracts Upgradeable v4.5.0 for compatibility  
 
+
+## Disclaimer
+
+This codebase is for educational purposes only and has not undergone a security review.
